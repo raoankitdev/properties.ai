@@ -26,4 +26,4 @@ Protect `main` and `ver4` with required status checks to ensure quality gates be
   - CI jobs are currently gated by `MVP_CI_DISABLED` and will complete quickly without running heavy checks.
   - If branch protection requires specific checks, they will still report success (skipped heavy steps).
   - To fully re-enable, set `MVP_CI_DISABLED='false'` in `.github/workflows/ci.yml` (or remove the env).
-              
+               
