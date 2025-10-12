@@ -48,3 +48,4 @@ This is the Next.js frontend for the AI Real Estate Assistant (V4).
 ## Security Notes
 - Do not expose secrets in the client. `NEXT_PUBLIC_API_KEY` is for local development only.
 - In production, authenticate requests server‑side; let the backend enforce rate limits and CORS.
+ 
