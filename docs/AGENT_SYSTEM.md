@@ -46,4 +46,4 @@ if result["status"] == "success":
 ## Troubleshooting
 - **LLM Connection Errors**: Ensure `OPENAI_API_KEY` or relevant provider keys are set in `.env`.
 - **Validation Failures**: Check `result["steps"]` for violation details.
-   
+    
