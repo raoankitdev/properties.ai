@@ -28,4 +28,4 @@
 - Health checks green; logs structured; basic monitoring notes included.
 - Free‑tier deployment verified; cold‑start impact noted.
 
-     
+      
