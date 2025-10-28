@@ -274,4 +274,4 @@ Made with ❤️ using Python, FastAPI, and Next.js
 Copyright © 2026 [Alex Nesterovich](https://github.com/AleksNeStu)
 
 </div>
- 
+  
