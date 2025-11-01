@@ -31,4 +31,4 @@ Follow these standards for frontend code in `frontend/`.
 ## Testing
 - **Unit**: Jest + React Testing Library.
 - **Command**: `npm test` or `npm run test:watch`.
-  
+   
