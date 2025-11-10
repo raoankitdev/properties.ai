@@ -26,3 +26,4 @@ ai-real-estate-assistant/
 └── tests/                  # Unit & integration tests
 ```
 
+ 
