@@ -742,4 +742,4 @@ properties = provider.get_properties()
 - Authentication via Bearer token when `api_key` is provided.
 - Validates API reachability, loads JSON payload, and returns `Property` objects.
 - See integration tests for end-to-end flow: `tests/integration/data/test_api_provider_integration.py`.
-  
+   
