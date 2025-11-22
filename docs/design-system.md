@@ -43,4 +43,4 @@
 - Vertical rhythm: 0.75rem bottom margin on core controls
 - Applies to: inputs, selects, text areas, number inputs, multiselects, sliders, checkboxes, radios, buttons
 - Components: add 0.75rem bottom margin to expanders, metrics, dataframes, file upload dropzone
-- Tabs: 0.5rem vertical padding inside tab panels for content breathing room 
+- Tabs: 0.5rem vertical padding inside tab panels for content breathing room  
