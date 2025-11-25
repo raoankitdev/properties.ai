@@ -13,4 +13,4 @@
 - **Interfaces**: Export via `__init__.py`. Use `models/provider_factory.py` for abstractions.
 - **Layering**: UI -> Agents -> Providers -> Vector Store -> Data.
 - **Dependencies**: UI shouldn't import agents directly. Cross-package via interfaces.
-     
+      
