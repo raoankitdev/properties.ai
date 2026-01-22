@@ -1,4 +1,4 @@
-# 🏠 AI Real Estate Assistant
+# 🏠 Properties.ai
 
 > AI-powered assistant for real estate agencies that helps buyers and renters find their ideal property.
 
@@ -274,4 +274,5 @@ Made with ❤️ using Python, FastAPI, and Next.js
 Copyright © 2026 [Alex Nesterovich](https://github.com/AleksNeStu)
 
 </div>
+
    
